@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/markh/Learning/TxtToPng/TxtToPng.csproj": {}
+    "c:\\Users\\MHOLCOMB\\Learning\\TxtToPng\\TxtToPng.csproj": {}
   },
   "projects": {
-    "/home/markh/Learning/TxtToPng/TxtToPng.csproj": {
+    "c:\\Users\\MHOLCOMB\\Learning\\TxtToPng\\TxtToPng.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/markh/Learning/TxtToPng/TxtToPng.csproj",
+        "projectUniqueName": "c:\\Users\\MHOLCOMB\\Learning\\TxtToPng\\TxtToPng.csproj",
         "projectName": "TxtToPng",
-        "projectPath": "/home/markh/Learning/TxtToPng/TxtToPng.csproj",
-        "packagesPath": "/home/markh/.nuget/packages/",
-        "outputPath": "/home/markh/Learning/TxtToPng/obj/",
+        "projectPath": "c:\\Users\\MHOLCOMB\\Learning\\TxtToPng\\TxtToPng.csproj",
+        "packagesPath": "C:\\Users\\MHOLCOMB\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\MHOLCOMB\\Learning\\TxtToPng\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/markh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\MHOLCOMB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,12 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true

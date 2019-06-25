@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj": {}
+    "c:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj": {
+    "c:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "c:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "c:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\MHOLCOMB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\obj\\",
+        "outputPath": "c:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
