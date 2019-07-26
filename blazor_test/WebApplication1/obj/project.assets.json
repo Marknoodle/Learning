@@ -8,30 +8,24 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MHOLCOMB\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\markh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\markh\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
-      "packagesPath": "C:\\Users\\MHOLCOMB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MHOLCOMB\\Learning\\blazor_test\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\markh\\Learning\\blazor_test\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\markh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\markh\\Learning\\blazor_test\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MHOLCOMB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\markh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
