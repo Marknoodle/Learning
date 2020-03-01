@@ -1,0 +1,33 @@
+namespace Automata
+{
+    public static (string[], string[], (string, string, string)[], string, string[]) Translation(NFA before)
+    {
+
+    }
+}
+
+
+
+
+/*
+
+Main()
+
+ tupleType nfaSetTuple //tuple made ourselves
+
+ NFA bobbyboy = new NFA(nfaSetTuple)//NFA constructor
+ 
+ DFA richy = new DFA(Nfa2Dfa( bobbyboy  )   ) //DFA constructor
+
+ NFA :: (string[], string[], (string, string, string)[], string, string[]) // alphabet, states, transitions, startState, finalStates 
+ DFA :: (string[], string[], (string, string, string)[], string, string[]) // same as order NFA
+ Nfa2Dfa :: NFA -> DFA
+
+step 1: create NFA object using nfaSetTuple
+
+step 2: feed nfa obj to Nfa2Dfa() 
+
+step 3: construct DFA object using return of step 2
+
+
+*/

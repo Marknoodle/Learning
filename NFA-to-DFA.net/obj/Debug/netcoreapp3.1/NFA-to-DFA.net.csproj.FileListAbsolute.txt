@@ -1,0 +1,11 @@
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\bin\Debug\netcoreapp3.1\NFA-to-DFA.net.exe
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\bin\Debug\netcoreapp3.1\NFA-to-DFA.net.deps.json
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\bin\Debug\netcoreapp3.1\NFA-to-DFA.net.runtimeconfig.json
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\bin\Debug\netcoreapp3.1\NFA-to-DFA.net.runtimeconfig.dev.json
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\bin\Debug\netcoreapp3.1\NFA-to-DFA.net.dll
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\bin\Debug\netcoreapp3.1\NFA-to-DFA.net.pdb
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\obj\Debug\netcoreapp3.1\NFA-to-DFA.net.csprojAssemblyReference.cache
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\obj\Debug\netcoreapp3.1\NFA-to-DFA.net.AssemblyInfoInputs.cache
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\obj\Debug\netcoreapp3.1\NFA-to-DFA.net.AssemblyInfo.cs
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\obj\Debug\netcoreapp3.1\NFA-to-DFA.net.dll
+C:\Users\MHOLCOMB\Learning\NFA-to-DFA.net\obj\Debug\netcoreapp3.1\NFA-to-DFA.net.pdb
