@@ -6,12 +6,8 @@ namespace Automata
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Pat & Syd");
+            Console.WriteLine("We can do this!");
         }
-        public (string[],char[],(string,char,string),string,string[]) Translation((string[],char[],(string,char,string),string,string[]))
-        {
-            return;
-        }   
     }
     
 }
