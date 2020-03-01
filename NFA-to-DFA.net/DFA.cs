@@ -2,29 +2,29 @@ namespace Automata
 {
     public class DFA
     {
-        // alphabet :: list of stringacters that represent our alphabet
+        // alphabet :: list of strings that represent our alphabet
         private string[] alphabet {get; set;}
         // states :: list of state names
-        private string[] states;
+        private string[] states {get; set;}
         // transitions :: current state, input, resulting state
-        private (string, string, string)[] transitions;
+        private (string, string, string)[] dfaTransitions {get; set;}//state , alphabet, new state (only one(state!)!)
         // start state :: string
-        private string startState;
+        private string startState {get; set;}
         // final states :: list of strings
-        private string[] finalStates;
+        private string[] finalStates {get; set;}
 
         public DFA(string[] _alphabet, string[] _states, (string, string, string)[] _transitions, string _startState, string[] _finalStates)
         {
             alphabet = _alphabet;
             states = _states;
-            transitions = _transitions;
+            dfaTransitions = _transitions;
             startState = _startState;
             finalStates = _finalStates;
         }
 
-        public (string[], string[], (string, string, string)[], string, string[]) retDFA()
+        public (string[], string[], (string, string, string)[], string, string[]) retDFA()//Existence Pending
         {
-            return (alphabet,states,transitions,startState,finalStates);
+            return (alphabet,states, dfaTransitions,startState,finalStates);
         }
     }
 }

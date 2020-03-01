@@ -2,7 +2,7 @@ namespace Automata
 {
     public static (string[], string[], (string, string, string)[], string, string[]) Translation(NFA before)
     {
-
+        //TODO Finish this
     }
 }
 
