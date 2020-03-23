@@ -1,0 +1,55 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[letterpaper, margin=.5in]{geometry}
+
+\title{Hwk 3}
+\author{Mark Holcomb}
+\date{March 2020}
+\usepackage{roboto}
+\usepackage{mathtools}
+
+
+\begin{document}
+\LARGE\textbf{Homework 3:}\\
+
+\large\textbf{Problem 1}
+
+\textbf{a)}
+
+given: $P =\frac{R}{2L}$,\indent
+       $\omega_o = \sqrt{\frac{1}{Lc}}$,\indent
+       $L I'' + RI' + C^{-1}I = E'(t)$ \\
+
+       Now we are going to take the value of $E(t)$ and find it's derivative
+       
+       \begin{center}
+        $E(t) = E_o \sin(\omega t)$\\
+        $E'(t) = \omega E_o \cos(\omega t)$
+       \end{center}
+       
+       This gives us that our original equation is actually
+       \begin{center}
+        $L I'' + RI' + C^{-1}I = \omega E_o \cos(\omega t)$
+       \end{center}
+
+       Now we can take the particular solution, $X_p$, from the book and plug our values in
+       \begin{center}
+        $X_p = [\frac{\omega E_o}{L \sqrt{(2 \omega p)^2 + (\omega_o^2 - \omega^2)^2}}] \sin(\omega t - y)$
+       \end{center}
+
+\textbf{b)}
+
+To find the amplitude, let's first consider the form $y = A sin(B(x + C)) + D$\\
+
+Where A is the amplitude, we can see from our equation from a) that in our case,
+\begin{center}
+    $A = \frac{\omega E_o}{L \sqrt{(2 \omega p)^2 + (\omega_o^2 - \omega^2)^2}}$
+\end{center}
+
+\textbf{c)}
+
+An amplitude is maximized when it's derivative(slope) is 0, or when $A' = 0$
+
+
+\end{document}
+
