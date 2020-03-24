@@ -65,7 +65,7 @@ We decided to call them lock and key because, to a new programmer, this concept 
 
 ## Loops
 
-Squidscript will support both While loops and for loops. We are discarding the c-style for loop in favor of the "`for in`" structure found in Rust and Python. The idea of iterating through a list of items makes more sense in this context instead of relying on an interator integer you use for indexes. (You can of course still use for in ona arange of numbers to achieve the same effect.)
+Squidscript will support both While loops and for loops. We are discarding the c-style for loop in favor of the "`for in`" structure found in Rust and Python. The idea of iterating through a list of items makes more sense in this context instead of relying on an interator integer you use for indexes. (You can of course still use "for in" on a range of numbers to achieve the same effect.)
 
 ```
 for <variable iterable> in <range, list, or array of elements>
