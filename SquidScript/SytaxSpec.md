@@ -92,15 +92,15 @@ while <conditional>
 Functions in Squidscript are fairly average, with the main difference being the order in which we define typing. We define the return type after declaring the input types in an attempt to make it clearer to a new programmer what a function does.
 
 ```
-func <funcName> (<param type> <params if any>) -> <output type>
+func <funcName> (<param type> <params if any>) returns <output type>
         {
             //code     
         }
 
 //ex
 
-func add(int x, int y) -> int // maybe have returns instead of -> here
+func add(int x, int y) returns int 
 {
-    -> x + y; // not sure if we want a word(return) instead of ->
+    return x + y; 
 }
 ```
